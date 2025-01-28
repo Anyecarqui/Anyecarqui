@@ -3,7 +3,7 @@
 <p style="color:#32ce66; font-size: 25px; text-align:center;"> 👋🏼¡Hola soy Yesenia Cardenas!  👋🏼 </p>
 
 Estudiè Diseño Grafico, Animaciòn 3D; Actualmente estudiante de Desarrollo web
-Desarrolladora web (en desarrollo) capacitada en diseño y desarrollo de aplicaciones y paginas web dinamicas y responsivas.
+Desarrolladora web capacitada en diseño y desarrollo de aplicaciones y paginas web dinamicas y responsivas.
 con conocimientos en lenguajes de programaciòn como HTML, CSS y JavaScript; manejo frameworks como react;
 capacitada para solucionar errores y/o problemas de codigo para generar el buen funcionamiento de la pàgina
 ##
